@@ -1,7 +1,7 @@
 function foo() {
-    console.log('foo')
+    console.log('foo here')
 }
 
 function bar() {
-    console.log('bar');
+    console.log('bar here');
 }
